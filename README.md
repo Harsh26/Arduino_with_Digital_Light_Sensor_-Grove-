@@ -18,3 +18,8 @@ The main point in above connection is that:-
 
 Connectors zoomed picture:-
 ![](Useful/connector.jpeg)
+
+
+After the necessary connections are made, follow the code given in this repository under the directory named light_sensor and upload it on Arduino using the Arduino IDE.
+
+
