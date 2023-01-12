@@ -2,7 +2,7 @@
 This repository contains interfacing details of Arduino with Digital Light Sensor v1.1 (Grove), along with the code for getting the light intensity at point of time.
 
 
-THe whole connection is shown as follows:-
+The whole connection is shown as follows:-
 ![](Useful/whole.jpeg)
 
 The detailed picture of Arduino connection is as follows:-
