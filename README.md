@@ -1,4 +1,10 @@
 # Arduino_with_Digital_Light_Sensor_Grove
+
+## Pre-requisites
+  Installation of Arduino IDE. You can follow https://docs.arduino.cc/software/ide-v1/tutorials/Windows 
+
+## Wired Connection
+  
 This repository contains interfacing details of Arduino with Digital Light Sensor v1.1 (Grove), along with the code for getting the light intensity at point of time.
 
 
@@ -19,7 +25,12 @@ The main point in above connection is that:-
 Connectors zoomed picture:-
 ![](Useful/connector.jpeg)
 
-
+## Code
 After the necessary connections are made, follow the code given in this repository under the directory named light_sensor and upload it on Arduino using the Arduino IDE.
+
+## Output
+Following output should be obtained:-
+
+![](Useful/output_light_sensor.png)
 
 
