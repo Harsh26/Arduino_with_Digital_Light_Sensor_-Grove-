@@ -29,7 +29,7 @@ Connectors zoomed picture:-
 After the necessary connections are made, follow the code given in this repository under the directory named light_sensor and upload it on Arduino using the Arduino IDE.
 
 ## Output
-Following output should be obtained:-
+Output should be obtained as per the lighting conditions:-
 
 ![](Useful/output_light_sensor.png)
 
